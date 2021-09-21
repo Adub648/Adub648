@@ -17,6 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Update: New Domain](http://alexmatthewilson.com/updates/Update-New-Domain/)
+- [Update: What This Blog Is About](http://alexmatthewilson.com/update/Update-What-This-Blog-Is-About/)
+- [Quitting TV - A Two Month Retrospective](http://alexmatthewilson.com/productivity/Qutting-TV-A-Two-Month-Retrospective/)
+- [Some Self-learning Resources](http://alexmatthewilson.com/self-education/Some-Self-Learning-Resources/)
+- [Deep Consumption](http://alexmatthewilson.com/deep-work/Deep-Consumption/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
