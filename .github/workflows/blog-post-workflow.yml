@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in blog posts
-        uses: Adub648/blog-post-workflow@master
+        uses: guatamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://alexmatthewilson.com/feed.xml"
