@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **VCE Applied computing**
 
-- 👨‍💻 All of my projects are available at [alexmatthewilson.com](alexmatthewilson.com)
+- 👨‍💻 All of my projects are available at [alexmatthewilson.com](https://alexmatthewilson.com)
 
 - 📫 How to reach me **alexforeva94@gmail.com**
 
@@ -22,9 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alex-wilson-641274203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-wilson-641274203" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/adub648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="adub648" height="30" width="40" /></a>
-<a href="https://discord.gg/Adub#5926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Adub#5926" height="30" width="40" /></a>
-<a href="/https://alexmatthewilson.com/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://alexmatthewilson.com/feed.xml" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13624216/adub648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="adub648" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Adub#5926" height="30" width="40" />Adub#5926
+<a href="https://alexmatthewilson.com/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://alexmatthewilson.com/feed.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
