@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [alexmatthewilson.com](https://alexmatthewilson.com)
 
-- 📫 How to reach me **alexforeva94@gmail.com**
+- 📫 How to reach me **alexwilson9451@gmail.com**
 
 - ⚡ Fun fact: **I have played the trombone since I was 8**
 
