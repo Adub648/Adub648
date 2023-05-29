@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adub648" alt="adub648" /></a> </p>
 
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com)
+- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com) and [CS50](https://cs50.harvard.edu/x/2023)
 
-- 🌱 I’m currently learning **VCE Applied computing**
+- 🌱 I’m currently learning **First Year Computer Science + Commerce and a Diploma of Languages in Japanese at Monash University**
 
 - 👨‍💻 All of my projects are available at [alexmatthewilson.com](https://alexmatthewilson.com)
 
